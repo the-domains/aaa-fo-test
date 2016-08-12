@@ -16,3 +16,6 @@ navigation:
   - name: try to crasher
     id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
     type: content
+  - name: zzz
+    url: 'https://thegrid.ai/aaa-fo-test/'
+    type: external

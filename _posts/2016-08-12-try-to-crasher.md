@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-12T08:22:36.833Z'
-datePublished: '2016-08-12T08:22:37.771Z'
-title: try to crasher
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-12T08:25:37.713Z'
 sourcePath: _posts/2016-08-12-try-to-crasher.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-12T08:25:37.184Z'
+title: try to crasher
+publisher: {}
+description: ''
 starred: false
 url: try-to-crasher/index.html
 _type: Blurb

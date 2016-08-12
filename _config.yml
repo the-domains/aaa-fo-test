@@ -12,3 +12,7 @@ color:
     - '#F2EBC7'
     - '#348899'
 name: aaa-fo-test
+navigation:
+  - name: try to crasher
+    id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
+    type: content

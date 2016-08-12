@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-12T08:18:27.509Z'
-datePublished: '2016-08-12T08:21:05.999Z'
+dateModified: '2016-08-12T08:22:36.833Z'
+datePublished: '2016-08-12T08:22:37.771Z'
 title: try to crasher
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-12-try-to-crasher.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: try-to-crasher/index.html
+_type: Blurb
 
 ---
 # try to crasher

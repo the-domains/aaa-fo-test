@@ -1,0 +1,14 @@
+layout_spectrum: 0.4251432807650417
+typography_spectrum: 0.5154134910553694
+color:
+  brandStrength: 0.9840874471701682
+  lightness: 0.1958461245521903
+  saturation: 0.10906764748506248
+  rhythmicContrast: 0.307705030310899
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: aaa-fo-test

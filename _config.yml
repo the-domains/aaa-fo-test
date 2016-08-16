@@ -1,4 +1,3 @@
-layout_spectrum: 0.4251432807650417
 typography_spectrum: 0.5154134910553694
 color:
   brandStrength: 0.9840874471701682
@@ -11,6 +10,7 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+layout_spectrum: 0.4251432807650417
 name: aaa-fo-test
 navigation:
   - name: try to crasher
@@ -22,3 +22,4 @@ navigation:
   - name: self
     id: b53a2fdc-ce06-43ac-9d8c-87dd30833cc6
     type: content
+title: AAA Fo's testing

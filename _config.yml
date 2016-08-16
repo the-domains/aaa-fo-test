@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.4251432807650417
 name: aaa-fo-test
 navigation:
-  - name: try to crasher
+  - name: internal thing
     id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
     type: content
   - name: zzz

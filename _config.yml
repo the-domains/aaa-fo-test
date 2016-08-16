@@ -12,11 +12,12 @@ color:
     - '#348899'
 layout_spectrum: 0.4251432807650417
 name: aaa-fo-test
+style: the-composer
 navigation:
   - name: internal thing
     id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
     type: content
-  - name: zzz
+  - name: manual link home
     url: 'https://thegrid.ai/aaa-fo-test/'
     type: external
   - name: self
@@ -24,4 +25,3 @@ navigation:
     type: content
 title: AAA Fo's testing
 description: a gridster tests gridstuff
-style: the-composer

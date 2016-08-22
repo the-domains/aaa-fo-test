@@ -1,17 +1,29 @@
 ---
-datePublished: '2016-08-16T08:48:52.560Z'
-sourcePath: _posts/2016-08-12-try-to-crasher.md
-inFeed: true
-hasPage: true
+datePublished: '2016-08-22T20:09:03.792Z'
 author: []
 via: {}
-dateModified: '2016-08-16T08:48:51.792Z'
+metadata:
+  datePublished: '2016-08-16T08:48:52.560Z'
+  sourcePath: _posts/2016-08-12-try-to-crasher.md
+  inFeed: true
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-16T08:48:52.560Z'
+  title: try to crasher
+  publisher: {}
+  description: ''
+dateModified: '2016-08-22T15:48:48.687Z'
 title: try to crasher
+id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
 publisher: {}
 description: ''
 starred: true
-url: try-to-crasher/index.html
-_type: Article
+sourcePath: _posts/2016-08-12-try-to-crasher.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # try to crasher

@@ -4,14 +4,14 @@
         <description><![CDATA[AAA Fo's testing]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:57:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ed-userhtml test]]></title>
             <description><![CDATA[<article><h1>ed-userhtml test</h1><p>code:</p></article>]]></description>
             <link>https://thegrid.ai/aaa-fo-test/ed-userhtml-test/index.html</link>
             <guid isPermaLink="false">6f1490b5-b41b-4ec8-a905-cf59f849d876</guid>
-            <pubDate>Thu, 25 Aug 2016 18:55:14 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2016 18:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

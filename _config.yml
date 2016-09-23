@@ -10,10 +10,13 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+github: true
 layout_spectrum: 0.4251432807650417
 name: aaa-fo-test
-style: the-composer
 navigation:
+  - name: Contact
+    id: 988b4968-6e9b-43cf-8a25-6452d37fcf04
+    type: content
   - name: internal thing
     id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
     type: content

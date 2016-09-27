@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-27T13:17:19.519Z'
+datePublished: '2016-09-27T13:23:50.593Z'
 sourcePath: _posts/2016-09-06-some-nice-running.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T13:17:17.602Z'
+dateModified: '2016-09-27T13:23:49.808Z'
 title: 3-2-1 Contact
 publisher: {}
 description: a map of some nice running
@@ -16,7 +16,7 @@ _type: Blurb
 ---
 # 3-2-1 Contact
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=37.790532&amp;longitude=-122.471058&amp;zoom=15&amp;address=Park%20Trl%2C%20San%20Francisco%2C%20California%2094129%2C%20United%20States" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=15&amp;address=Park%20Trl%2C%20San%20Francisco%2C%20California%2094129%2C%20United%20States" style=""></iframe>
 
 a map of some nice running
 

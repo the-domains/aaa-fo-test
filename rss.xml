@@ -4,9 +4,9 @@
         <description><![CDATA[AAA Fo's testing]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Sep 2016 14:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2016 02:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Sep 2016 14:47:22 GMT</pubDate>
+        <pubDate>Wed, 28 Sep 2016 02:15:28 GMT</pubDate>
         <item>
             <title><![CDATA[old DS exploit]]></title>
             <description><![CDATA[<article><h1>old DS exploit</h1><p>ex-sploit… seems to not break stuff now.</p></article>]]></description>
@@ -19,7 +19,7 @@
             <description><![CDATA[<article><h1>ed-userhtml test</h1><p>code:</p></article>]]></description>
             <link>https://thegrid.ai/aaa-fo-test/ed-userhtml-test/index.html</link>
             <guid isPermaLink="false">6f1490b5-b41b-4ec8-a905-cf59f849d876</guid>
-            <pubDate>Tue, 20 Sep 2016 02:39:20 GMT</pubDate>
+            <pubDate>Wed, 28 Sep 2016 02:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

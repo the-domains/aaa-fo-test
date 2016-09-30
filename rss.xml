@@ -4,16 +4,9 @@
         <description><![CDATA[AAA Fo's testing]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 19:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 15:21:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Sep 2016 19:41:33 GMT</pubDate>
-        <item>
-            <title><![CDATA[Release the Infinite Monkeys to Make VR Great]]></title>
-            <description><![CDATA[<article><h1>Release the Infinite Monkeys to Make VR Great</h1><p>I have zero virtual-reality skills. I don't know how to work in Unity, the graphics software engine often used to make immersive worlds. I have little sense for 3-D design. But I have a secret weapon: A-Frame, an easy-to-use language released by Mozilla last winter.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1ffb5f7b89350c18011b3a3a6ecc078c/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fap2409_thompson-main-1200x630-e1474663170781.jpg"></article>]]></description>
-            <link>https://www.wired.com/2016/09/time-release-infinite-monkeys-vr/</link>
-            <guid isPermaLink="false">da83d902-e077-4c26-82f6-046901585786</guid>
-            <pubDate>Thu, 29 Sep 2016 19:41:02 GMT</pubDate>
-        </item>
+        <pubDate>Fri, 30 Sep 2016 15:20:38 GMT</pubDate>
         <item>
             <title><![CDATA[old DS exploit]]></title>
             <description><![CDATA[<article><h1>old DS exploit</h1><p>ex-sploit… seems to not break stuff now.</p></article>]]></description>

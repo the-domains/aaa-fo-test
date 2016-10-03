@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AAA Fo's testing]]></title>
-        <description><![CDATA[AAA Fo's testing]]></description>
+        <title><![CDATA[tset-of]]></title>
+        <description><![CDATA[tset-of]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Sep 2016 15:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:26:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Sep 2016 15:20:38 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 15:26:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Psychedelics and Systems Change | P2P Foundation]]></title>
+            <description><![CDATA[<article><h1>Psychedelics and Systems Change | P2P Foundation</h1><p>Originally published (in a modified form) on the MAPS Bulletin (Spring 2016) Many arguments for the legalization of cannabis and psychedelics draw on their relative harmlessness. Countering the rationale of prohibition, we can point out that compared to legal drugs like alcohol and tobacco, psychedelics are extremely safe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a1e209cb3dbb78cfd9382d376700a67d/noop.jpg?input=https%3A%2F%2Fcdn6-blog.p2pfoundation.net%2Fwp-content%2Fuploads%2F5952227620_4e3cd5c8e0_b_Psychedelic.jpg"></article>]]></description>
+            <link>https://famousclass.bandcamp.com/album/start-your-own-fucking-show-space</link>
+            <guid isPermaLink="false">fce0db86-ed57-4bbc-a4d2-b6ab9cf7776c</guid>
+            <pubDate>Mon, 03 Oct 2016 15:26:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[old DS exploit]]></title>
             <description><![CDATA[<article><h1>old DS exploit</h1><p>ex-sploit… seems to not break stuff now.</p></article>]]></description>

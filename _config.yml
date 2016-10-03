@@ -12,7 +12,7 @@ color:
     - '#348899'
 github: true
 layout_spectrum: 0.4251432807650417
-name: aaa-fo-test
+name: aaa-fo-tests
 navigation:
   - name: Contact
     id: 988b4968-6e9b-43cf-8a25-6452d37fcf04

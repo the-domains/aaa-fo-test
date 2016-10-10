@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-10T22:47:26.901Z'
+datePublished: '2016-10-10T22:47:45.188Z'
 sourcePath: _posts/2016-10-10-happy-birthday-monk.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/r_emmet/status/785509852181397504'
@@ -42,7 +42,7 @@ author:
           - 70
           - 62
 via: {}
-dateModified: '2016-10-10T22:47:14.361Z'
+dateModified: '2016-10-10T22:47:43.301Z'
 title: "Happy birthday Monk. \uD83C\uDF70\uD83C\uDFB9\uD83D\uDC7C\uD83C\uDFFF"
 app_links:
   - path: >-

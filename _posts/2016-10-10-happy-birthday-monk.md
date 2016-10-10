@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-10-10T22:43:27.269Z'
+datePublished: '2016-10-10T22:44:57.514Z'
+sourcePath: _posts/2016-10-10-happy-birthday-monk.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/r_emmet/status/785509852181397504'
 keywords:
@@ -19,8 +20,9 @@ author:
     url: 'http://twitter.com/r_emmet'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/03e7e2ae130ce0857aff9c6ad2ebdf73/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F866352107%2FRob_Card_400x400.jpg
-      original: 'https://pbs.twimg.com/profile_images/866352107/Rob_Card_400x400.jpg'
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/69fa4a8b92aa4f7399e222a60768b7e4c85ccaab.jpg
+      original: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/69fa4a8b92aa4f7399e222a60768b7e4c85ccaab.jpg
       width: 400
       height: 400
       colors:
@@ -40,8 +42,8 @@ author:
           - 70
           - 62
 via: {}
-dateModified: '2016-10-10T22:43:23.392Z'
-title: 'Happy birthday Monk. '
+dateModified: '2016-10-10T22:44:46.700Z'
+title: "Happy birthday Monk. \uD83C\uDF70\uD83C\uDFB9\uD83D\uDC7C\uD83C\uDFFF"
 app_links:
   - path: >-
       twitter/tweet?status_id=785509852181397504&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E785509852181397504
@@ -56,9 +58,9 @@ publisher:
 description: 'Lots of Monk talk today, so here is my favorite album cover ever:'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-10-10-happy-birthday-monk.md
 _context: 'http://schema.org'
 _type: Photograph
 
 ---
-# Happy birthday Monk. ![Lots of Monk talk today, so here is my favorite album cover ever:](https://pbs.twimg.com/media/CuaxCFHXYAABAUQ.jpg:large)
+# Happy birthday Monk. 🍰🎹👼🏿
+![Lots of Monk talk today, so here is my favorite album cover ever:](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ece22339e3c1affcce15a05093644d78b1c07b1.jpg)

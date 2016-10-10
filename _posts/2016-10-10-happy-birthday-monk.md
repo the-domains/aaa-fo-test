@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-10T22:44:57.514Z'
+datePublished: '2016-10-10T22:47:26.901Z'
 sourcePath: _posts/2016-10-10-happy-birthday-monk.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/r_emmet/status/785509852181397504'
@@ -42,7 +42,7 @@ author:
           - 70
           - 62
 via: {}
-dateModified: '2016-10-10T22:44:46.700Z'
+dateModified: '2016-10-10T22:47:14.361Z'
 title: "Happy birthday Monk. \uD83C\uDF70\uD83C\uDFB9\uD83D\uDC7C\uD83C\uDFFF"
 app_links:
   - path: >-
@@ -64,3 +64,5 @@ _type: Photograph
 ---
 # Happy birthday Monk. 🍰🎹👼🏿
 ![Lots of Monk talk today, so here is my favorite album cover ever:](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ece22339e3c1affcce15a05093644d78b1c07b1.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6Di_mswqhLU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Di_mswqhLU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Di_mswqhLU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

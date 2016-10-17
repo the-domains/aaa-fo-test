@@ -12,8 +12,7 @@ color:
     - '#348899'
 github: true
 layout_spectrum: 0.4251432807650417
-name: |+
-
+name: aaa-fo-test
 navigation:
   - name: Contact
     id: 988b4968-6e9b-43cf-8a25-6452d37fcf04
@@ -30,5 +29,6 @@ navigation:
   - name: ed-userhtml test
     id: 6f1490b5-b41b-4ec8-a905-cf59f849d876
     type: content
-title: tset-of
+title: fo-test
+content: []
 description: a gridster tests gridstuff

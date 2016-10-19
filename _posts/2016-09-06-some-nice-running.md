@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-28T02:17:42.133Z'
+datePublished: '2016-10-19T21:26:31.158Z'
 sourcePath: _posts/2016-09-06-some-nice-running.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-28T02:17:41.353Z'
+dateModified: '2016-10-19T21:26:30.674Z'
 title: 3-2-1 Contact
 publisher: {}
 description: a map of some nice running
 starred: false
 url: 3-2-1-contact/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 # 3-2-1 Contact

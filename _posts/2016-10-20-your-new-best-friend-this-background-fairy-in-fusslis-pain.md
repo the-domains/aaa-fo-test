@@ -49,14 +49,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/GalaxyKate/status/758586705255464960'
-datePublished: '2016-10-20T14:42:38.783Z'
-dateModified: '2016-10-20T14:42:18.418Z'
+datePublished: '2016-10-20T14:42:58.167Z'
+dateModified: '2016-10-20T14:42:57.490Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-10-20-your-new-best-friend-this-background-fairy-in-fusslis-pain.md
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 

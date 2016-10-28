@@ -32,7 +32,4 @@ navigation:
 title: fo-test
 content: []
 description: a gridster tests gridstuff
-purpose:
-  - type: external
-    url: 'https://meemoo.org/'
-    label: '@fo'
+purpose: []

@@ -20,7 +20,7 @@ navigation:
   - name: internal thing
     id: 5c742b2a-d581-4885-ac3e-83c90f395fa1
     type: content
-  - name: manual link home
+  - name: manual link home gggffff
     url: 'https://thegrid.ai/aaa-fo-test/'
     type: external
   - name: self

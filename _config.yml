@@ -14,7 +14,7 @@ github: true
 layout_spectrum: 0.4251432807650417
 name: aaa-fo-test
 navigation:
-  - name: Contact
+  - name: Contactf
     id: 988b4968-6e9b-43cf-8a25-6452d37fcf04
     type: content
   - name: internal thing

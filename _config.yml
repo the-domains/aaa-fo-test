@@ -12,6 +12,8 @@ color:
     - '#348899'
 github: true
 layout_spectrum: 0.4251432807650417
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a228ea-8618-411d-af36-c31a352e122a.svg
 name: aaa-fo-test
 navigation:
   - name: Contact

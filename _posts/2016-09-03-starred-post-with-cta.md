@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T22:32:01.994Z'
+datePublished: '2016-11-20T22:32:12.936Z'
 sourcePath: _posts/2016-09-03-starred-post-with-cta.md
 inFeed: true
 author:
   - name: image by jyri
 via: {}
-dateModified: '2016-11-20T22:32:00.333Z'
+dateModified: '2016-11-20T22:32:12.200Z'
 title: starred post with cta
 publisher: {}
 description: exploded electronics illustration

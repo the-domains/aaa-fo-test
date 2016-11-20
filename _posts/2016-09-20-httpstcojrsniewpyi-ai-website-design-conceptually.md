@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T22:31:35.578Z'
+datePublished: '2016-11-20T22:32:01.994Z'
 sourcePath: _posts/2016-09-20-httpstcojrsniewpyi-ai-website-design-conceptually.md
 inFeed: true
 author:
@@ -29,14 +29,14 @@ author:
           - 123
           - 140
 via: {}
-dateModified: '2016-11-20T22:31:34.706Z'
+dateModified: '2016-11-20T22:32:00.333Z'
 title: ''
 publisher: {}
 description: >-
   https://t.co/JrsNIeWpYi - "AI" website design. Conceptually feels very next
   level, an obvious, natural progression just waiting to happen.
-starred: false
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
+starred: false
 _type: MediaObject
 
 ---

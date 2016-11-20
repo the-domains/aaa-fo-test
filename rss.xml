@@ -4,9 +4,9 @@
         <description><![CDATA[fo-test]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 22:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 22:53:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 22:53:04 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 22:53:07 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dabcd2b47c33e25505fb1f5615586fb5/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCocKWjJWEAAlPJI.jpg%3Alarge" alt="Your new best friend: this background Fairy in F&uuml;ssli&apos;s painting of Titania">]]></description>
@@ -54,13 +54,6 @@
             <description><![CDATA[<article><h1>ed-userhtml test</h1><p>code:</p></article>]]></description>
             <link>https://thegrid.ai/aaa-fo-test/ed-userhtml-test/index.html</link>
             <guid isPermaLink="false">6f1490b5-b41b-4ec8-a905-cf59f849d876</guid>
-            <pubDate>Sun, 20 Nov 2016 22:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[unsalv…]]></title>
-            <description><![CDATA[<article><h1>unsalv…</h1><p>Originally from Toronto and based in Nanaimo, Dave loves the lifestyle and year round riding on an ever evolving network of incredible trails there. You will always find him shooting/riding mountain bikes in the summer and skiing in the winter. Learn more about Dave: How long have you been a photographer?</p></article>]]></description>
-            <link>http://www.mountainbikingbc.ca/trips/explore-vancouver-island-through-the-eyes-of-photographer-dave-silver/</link>
-            <guid isPermaLink="false">59e35667-d54e-413e-bc2c-0e69eb261628</guid>
             <pubDate>Sun, 20 Nov 2016 22:51:35 GMT</pubDate>
         </item>
     </channel>

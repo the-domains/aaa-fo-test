@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T22:31:35.574Z'
+datePublished: '2016-11-20T22:32:02.004Z'
 sourcePath: _posts/2016-09-06-some-nice-running.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T22:31:34.706Z'
+dateModified: '2016-11-20T22:32:00.333Z'
 title: 3-2-1 Contact
 publisher: {}
 description: a map of some nice running

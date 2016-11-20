@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T22:51:34.934Z'
+datePublished: '2016-11-20T22:57:26.436Z'
 sourcePath: >-
   _posts/2016-10-20-your-new-best-friend-this-background-fairy-in-fusslis-pain.md
 inFeed: true
@@ -43,8 +43,8 @@ author:
           - 41
           - 34
 via: {}
-dateModified: '2016-11-20T22:51:34.168Z'
-title: ''
+dateModified: '2016-11-20T22:57:25.811Z'
+title: live one
 app_links:
   - path: >-
       twitter/tweet?status_id=758586705255464960&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E758586705255464960
@@ -56,12 +56,12 @@ publisher:
   name: Twitter
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
-description: sdf
+description: 'Your new best friend: this background Fairy in Füssli''s painting of Titania'
 inLanguage: en
 starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
 ---
-sdf
-![Your new best friend: this background Fairy in Füssli's painting of Titania](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dabcd2b47c33e25505fb1f5615586fb5/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCocKWjJWEAAlPJI.jpg%3Alarge)
+# live one
+![Your new best friend: this background Fairy in Füssli's painting of Titania](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aecfa17f3ef1da893427a8b7476fcf3eaec43cc.jpg)

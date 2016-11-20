@@ -4,9 +4,9 @@
         <description><![CDATA[fo-test]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 19:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 21:06:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 19:37:37 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 21:06:05 GMT</pubDate>
         <item>
             <title><![CDATA[starred post with cta]]></title>
             <description><![CDATA[<article><h1>starred post with cta</h1><p>exploded electronics illustration</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ecb1846-e700-46f5-b633-c72459a31d79.png"></article>]]></description>
@@ -36,11 +36,11 @@
             <pubDate>Thu, 20 Oct 2016 14:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch a Short Film Adam Curtis Made for VICE About Your Life | VICE | United States]]></title>
-            <description><![CDATA[<article><h1>Watch a Short Film Adam Curtis Made for VICE About Your Life | VICE | United States</h1><p>Short film hosted on Facebook, appropriately. The full Hypernormalisation film isn’t officially available outside of the UK yet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a939e58d-c3c9-4eaf-a42d-17a0558987b5.png"></article>]]></description>
-            <link>http://www.vice.com/read/adam-curtis-living-unreal-world-short-film</link>
-            <guid isPermaLink="false">4a7705bd-d8bd-4420-bb7e-d43468e05bf5</guid>
-            <pubDate>Sun, 20 Nov 2016 19:37:00 GMT</pubDate>
+            <title><![CDATA[ed-userhtml test]]></title>
+            <description><![CDATA[<article><h1>ed-userhtml test</h1><p>code:</p></article>]]></description>
+            <link>https://thegrid.ai/aaa-fo-test/ed-userhtml-test/index.html</link>
+            <guid isPermaLink="false">6f1490b5-b41b-4ec8-a905-cf59f849d876</guid>
+            <pubDate>Sun, 20 Nov 2016 21:06:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[old DS exploit]]></title>
@@ -48,13 +48,6 @@
             <link>https://thegrid.ai/aaa-fo-test/old-ds-exploit/index.html</link>
             <guid isPermaLink="false">717b8561-af24-46d6-a214-359c5ab4fb4d</guid>
             <pubDate>Fri, 09 Sep 2016 01:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ed-userhtml test]]></title>
-            <description><![CDATA[<article><h1>ed-userhtml test</h1><p>code:</p></article>]]></description>
-            <link>https://thegrid.ai/aaa-fo-test/ed-userhtml-test/index.html</link>
-            <guid isPermaLink="false">6f1490b5-b41b-4ec8-a905-cf59f849d876</guid>
-            <pubDate>Wed, 28 Sep 2016 02:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

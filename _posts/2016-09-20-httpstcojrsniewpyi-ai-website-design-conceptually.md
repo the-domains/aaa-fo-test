@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T22:32:39.791Z'
+datePublished: '2016-11-20T22:51:35.119Z'
 sourcePath: _posts/2016-09-20-httpstcojrsniewpyi-ai-website-design-conceptually.md
 inFeed: true
 author:
@@ -29,7 +29,7 @@ author:
           - 123
           - 140
 via: {}
-dateModified: '2016-11-20T22:32:39.176Z'
+dateModified: '2016-11-20T22:51:34.168Z'
 title: ''
 publisher: {}
 description: >-

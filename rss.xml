@@ -4,15 +4,22 @@
         <description><![CDATA[fo-test]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Nov 2016 01:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2016 01:13:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Nov 2016 01:08:26 GMT</pubDate>
+        <pubDate>Mon, 21 Nov 2016 01:13:07 GMT</pubDate>
         <item>
             <title><![CDATA[live one]]></title>
             <description><![CDATA[<article><h1>live one</h1><p>Your new best friend: this background Fairy in Füssli's painting of Titania</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aecfa17f3ef1da893427a8b7476fcf3eaec43cc.jpg"></article>]]></description>
             <link>https://twitter.com/GalaxyKate/status/758586705255464960</link>
             <guid isPermaLink="false">62c6fa65-46df-4a4c-894c-e194b86a3b24</guid>
-            <pubDate>Sun, 20 Nov 2016 23:09:10 GMT</pubDate>
+            <pubDate>Mon, 21 Nov 2016 01:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[one draft]]></title>
+            <description><![CDATA[<article><h1>one draft</h1><p>the hr:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa61526-61ba-46b4-8ba1-ebbcfe22b117.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aaa-fo-test/one-draft/index.html</link>
+            <guid isPermaLink="false">70adc943-4d48-4556-b2dd-0b8b65eca485</guid>
+            <pubDate>Mon, 21 Nov 2016 01:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

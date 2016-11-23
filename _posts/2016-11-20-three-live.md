@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-11-21T19:39:14.563Z'
+datePublished: '2016-11-23T03:13:47.674Z'
+sourcePath: _posts/2016-11-20-three-live.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-21T19:39:14.209Z'
+dateModified: '2016-11-23T03:13:47.011Z'
 title: three live
 publisher: {}
 description: ''
-sourcePath: _posts/2016-11-20-three-live.md
-starred: false
+starred: true
 _type: Blurb
 
 ---

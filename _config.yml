@@ -1,4 +1,3 @@
-layout_spectrum: 0.41897199045497885
 typography_spectrum: 0.13088201600154586
 color:
   brandStrength: 0.1693532195660553
@@ -12,6 +11,7 @@ color:
     - '#222B48'
     - '#FFFFCF'
 github: true
+layout_spectrum: 0.41897199045497885
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a228ea-8618-411d-af36-c31a352e122a.svg
 name: aaa-fo-test
@@ -25,9 +25,6 @@ navigation:
   - name: manual link home
     url: 'https://thegrid.ai/aaa-fo-test/'
     type: external
-  - name: ed-userhtml test
-    id: 6f1490b5-b41b-4ec8-a905-cf59f849d876
-    type: content
   - name: starred post with cta
     id: 5e689cba-2211-48fd-80de-2717071563c0
     type: content

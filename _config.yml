@@ -1,4 +1,3 @@
-layout_spectrum: 0.4946329683587324
 typography_spectrum: 0.8577892524088816
 color:
   brandStrength: 0.6612298715439173
@@ -12,6 +11,7 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
+layout_spectrum: 0.4946329683587324
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a228ea-8618-411d-af36-c31a352e122a.svg
 name: aaa-fo-test
@@ -31,4 +31,7 @@ navigation:
 title: fo-test
 content: []
 description: a gridster tests gridstuff
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:(828)888-8888'
+    label: Call (828)888-8888

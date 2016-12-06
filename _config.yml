@@ -1,9 +1,10 @@
-typography_spectrum: 0.13088201600154586
+layout_spectrum: 0.6761597316687245
+typography_spectrum: 0.9748845845901656
 color:
-  brandStrength: 0.1693532195660553
-  lightness: 0.4460615896842083
-  saturation: 0.23378968956705073
-  rhythmicContrast: 0.060709090107535515
+  brandStrength: 0.8577965637682798
+  lightness: 0.9118499469416825
+  saturation: 1
+  rhythmicContrast: 0.8366800887147794
   brandColors:
     - '#C5C0A3'
     - '#5E5943'
@@ -11,7 +12,6 @@ color:
     - '#222B48'
     - '#FFFFCF'
 github: true
-layout_spectrum: 0.41897199045497885
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a228ea-8618-411d-af36-c31a352e122a.svg
 name: aaa-fo-test

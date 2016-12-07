@@ -31,7 +31,4 @@ navigation:
 title: fo-test
 content: []
 description: a gridster tests gridstuff
-purpose:
-  - type: contact
-    url: 'tel:+1-900-MIX-A-LOT'
-    label: Call +1-900-MIX-A-LOT
+purpose: []

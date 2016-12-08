@@ -31,4 +31,7 @@ navigation:
 title: fo-test
 content: []
 description: a gridster tests gridstuff
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:1-800-boo-bado'
+    label: Call 1-800-boo-bado

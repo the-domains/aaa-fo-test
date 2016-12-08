@@ -31,4 +31,7 @@ navigation:
 title: fo-test
 content: []
 description: a gridster tests gridstuff
-purpose: []
+purpose:
+  - type: external
+    url: 'http://meemoo.org'
+    label: meemoo.org

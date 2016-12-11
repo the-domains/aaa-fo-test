@@ -4,9 +4,9 @@
         <description><![CDATA[fo-test]]></description>
         <link>https://thegrid.ai/aaa-fo-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Dec 2016 20:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2016 21:23:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aaa-fo-test/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Dec 2016 20:04:16 GMT</pubDate>
+        <pubDate>Sun, 11 Dec 2016 21:23:47 GMT</pubDate>
         <item>
             <title><![CDATA[live one]]></title>
             <description><![CDATA[<article><h1>live one</h1><p>Your new best friend: this background Fairy in Füssli's painting of Titania</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aecfa17f3ef1da893427a8b7476fcf3eaec43cc.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>https://the-grid.github.io/ed-location/?latitude=35.063123&amp;longitude=-83.913375&amp;zoom=16&amp;address=Mission%20Dam%20Rd%2C%20Hayesville%2C%20North%20Carolina%2028904%2C%20United%20States</link>
             <guid isPermaLink="false">bdc1d7f3-d861-4534-a738-1294f6b0423d</guid>
             <pubDate>Fri, 09 Dec 2016 20:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[maps n maps]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-location/?latitude=51.583056&longitude=-0.226111&zoom=16&address=Hendon%20Central%20tube%20station%2C%20Barnet%2C%20London%2C%20Barnet%2C%20England%20NW4%203AP%20United%20Kingdom"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-location/?latitude=51.583056&amp;longitude=-0.226111&amp;zoom=16&amp;address=Hendon%20Central%20tube%20station%2C%20Barnet%2C%20London%2C%20Barnet%2C%20England%20NW4%203AP%20United%20Kingdom</link>
+            <guid isPermaLink="false">520d90ca-fa11-4974-8d1c-da495c25e15e</guid>
+            <pubDate>Sun, 11 Dec 2016 21:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
